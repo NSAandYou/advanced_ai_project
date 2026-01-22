@@ -1,0 +1,7 @@
+numpy
+scapy
+scipy
+statsmodels
+scikit-learn
+torch
+matplotlib
